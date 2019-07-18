@@ -1,0 +1,40 @@
+1- debian 		: 192.168.1.142   Macara : 255.255.255.0
+2- Kali Linux		:  192.168.1.187	
+3- Metasploitable 	:  192.168.1.145
+4- saint		:  192.168.1.180   / 192.168.1.1
+5- win 2016		:  192.168.1.155
+6- win 2012		:  192.168.1.217	
+7- win7			:  192.168.1.186
+8 win 10  		:  192.168.1.152
+
+(reverse-i-search)'c':clear
+
+Nameserver records returned by the parent servers are:
+
+ns39.domaincontrol.com.   ['97.74.109.20']   [TTL=172800]
+ns40.domaincontrol.com.   ['173.201.77.20']   [TTL=172800]
+
+j.gtld-servers.net was kind enough to give us that information.
+
+
+
+NS records got from your nameservers listed at the parent NS are:
+
+ns40.domaincontrol.com  ['173.201.77.20']   [TTL=3600]
+ns39.domaincontrol.com  ['97.74.109.20']   [TTL=3600]
+
+
+The SOA record is:
+Primary nameserver: ns39.domaincontrol.com
+Hostmaster E-mail address: dns.jomax.net
+Serial #: 2016040801
+Refresh: 28800
+Retry: 7200
+Expire: 604800   1 weeks
+Default TTL: 600
+
+Your MX records that were reported by your nameservers are:
+
+0   mail.mile2hackworld.com   107.180.56.178
+
+[These are all the MX records that I found. If there are some non common MX records at your nameservers you should see them below. ] 
