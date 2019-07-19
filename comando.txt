@@ -1,0 +1,17 @@
+set type=a
+www.mile2hackworld.com
+
+set type=cname
+mile2hackworld.com
+
+server 192.168.50.1
+set type=a
+www.mile2hackworld.com
+
+set type=mx
+mile2hackworld.com
+
+
+cat 139.txt | grep open | cut -d "" -f2
+
+nmap -O 192.168.50.#
