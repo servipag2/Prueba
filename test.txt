@@ -1,2 +1,10 @@
 test
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 test2
+=======
+test3
+>>>>>>> Stashed changes
+=======
+test3
+>>>>>>> Stashed changes
