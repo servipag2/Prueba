@@ -1,17 +1,14 @@
-set type=a
-www.mile2hackworld.com
+ El volumen de la unidad C es Windows
+ El n£mero de serie del volumen es: 729C-CF3E
 
-set type=cname
-mile2hackworld.com
+ Directorio de C:\Users\sergi\cursogit\proyecto\Prueba
 
-server 192.168.50.1
-set type=a
-www.mile2hackworld.com
-
-set type=mx
-mile2hackworld.com
-
-
-cat 139.txt | grep open | cut -d "" -f2
-
-nmap -O 192.168.50.#
+23-07-2019  16:48    <DIR>          .
+23-07-2019  16:48    <DIR>          ..
+23-07-2019  16:49                 0 comando.txt
+23-07-2019  16:48             1.250 IP.txt
+23-07-2019  16:14    <DIR>          Prueba1
+23-07-2019  16:48               181 test.txt
+23-07-2019  16:48                 5 test_issue2.txt
+               4 archivos          1.436 bytes
+               3 dirs  610.836.537.344 bytes libres
