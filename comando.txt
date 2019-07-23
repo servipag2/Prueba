@@ -3,12 +3,5 @@
 
  Directorio de C:\Users\sergi\cursogit\proyecto\Prueba
 
-23-07-2019  16:48    <DIR>          .
-23-07-2019  16:48    <DIR>          ..
-23-07-2019  16:49                 0 comando.txt
-23-07-2019  16:48             1.250 IP.txt
-23-07-2019  16:14    <DIR>          Prueba1
-23-07-2019  16:48               181 test.txt
-23-07-2019  16:48                 5 test_issue2.txt
                4 archivos          1.436 bytes
                3 dirs  610.836.537.344 bytes libres
