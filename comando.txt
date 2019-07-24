@@ -1,4 +1,13 @@
+<<<<<<< Updated upstream
 Se agregan Modificaciones Comando.txt
+=======
+Modificando COmando.txt
+++++++
+
+
+set type=a
+www.mile2hackworld.com
+>>>>>>> Stashed changes
 
 ++++++++++++++++++
 
